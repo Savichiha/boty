@@ -26,4 +26,6 @@ def main():
     logging.info('Бот стартовал')
     mybot.start_polling()
     mybot.idle()
-main()   
+
+if __name__ = '__main__':
+    main()   
