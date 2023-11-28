@@ -1,5 +1,5 @@
 setting.py
-*.log
+.log
 .vscode/
 .idea/
 env/
